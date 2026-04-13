@@ -43,10 +43,10 @@
 Usuario → Datos → Big Data → Análisis → ML/DL → IA → Decisión
 
 ## 9) Problemas
-- Problema 1:
-- Solución 1:
-- Problema 2:
-- Solución 2:
+- Problema 1: Datos mal recogidos
+- Solución 1: Revisar y limpiar datos
+- Problema 2: Sesgos
+- Solución 2: Usar datos más variados
 
 ## 10) Fuente
 - Enlace:
