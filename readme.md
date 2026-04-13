@@ -12,7 +12,7 @@
 - IA: Tecnología que usa todo lo anterior para tomar decisiones
 
 ## 3) Relación
--
+- Primero se recogen muchos datos (Big Data), luego se analizan. Después se usan para entrenar modelos de Machine Learning o Deep Learning. Todo esto forma parte de la IA, que al final toma decisiones como recomendar contenido.
 
 ## 4) Pipeline
 -
