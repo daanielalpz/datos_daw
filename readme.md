@@ -5,11 +5,11 @@
 - Contexto: Una app de streaming como Netflix que recomienda películas y series según lo que ve cada usuario
 
 ## 2) Conceptos
-- Big Data:
-- Análisis de datos:
-- Machine Learning:
-- Deep Learning:
-- IA:
+- Big Data: Son muchos datos que se generan continuamente (por ejemplo lo que ven los usuarios)
+- Análisis de datos: Es estudiar esos datos para entender qué está pasando
+- Machine Learning: Sistemas que aprenden solos a partir de los datos
+- Deep Learning: Un tipo de Machine Learning más avanzado que usa redes neuronales
+- IA: Tecnología que usa todo lo anterior para tomar decisiones
 
 ## 3) Relación
 -
