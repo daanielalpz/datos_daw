@@ -49,4 +49,5 @@ Usuario → Datos → Big Data → Análisis → ML/DL → IA → Decisión
 - Solución 2: Usar datos más variados
 
 ## 10) Fuente
-- Enlace:
+- Enlace: Enlace: https://www.ibm.com/topics/big-data
+
