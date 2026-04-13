@@ -15,7 +15,7 @@
 - Primero se recogen muchos datos (Big Data), luego se analizan. Después se usan para entrenar modelos de Machine Learning o Deep Learning. Todo esto forma parte de la IA, que al final toma decisiones como recomendar contenido.
 
 ## 4) Pipeline
--
+- Datos → Procesamiento → Análisis → ML/DL → IA → Decisión
 
 ## 5) 5V del Big Data
 - Volumen:
