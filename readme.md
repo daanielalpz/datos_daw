@@ -25,10 +25,10 @@
 - Valor: Sirven para mejorar el servicio
 
 ## 6) Ejemplo aplicado
-- Datos:
-- Análisis:
-- Modelo:
-- Decisión:
+- Datos: Lo que ve el usuario, búsquedas, tiempo viendo algo
+- Análisis: Se estudian los gustos del usuario
+- Modelo: Algoritmos de recomendación
+- Decisión: Recomendar series o películas
 
 ## 7) Tabla
 | Concepto | Función |
