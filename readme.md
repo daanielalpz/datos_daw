@@ -18,11 +18,11 @@
 - Datos → Procesamiento → Análisis → ML/DL → IA → Decisión
 
 ## 5) 5V del Big Data
-- Volumen:
-- Velocidad:
-- Variedad:
-- Veracidad:
-- Valor:
+- Volumen: Hay muchísimos datos
+- Velocidad: Se generan muy rápido
+- Variedad: Hay distintos tipos de datos
+- Veracidad: Los datos tienen que ser fiables
+- Valor: Sirven para mejorar el servicio
 
 ## 6) Ejemplo aplicado
 - Datos:
