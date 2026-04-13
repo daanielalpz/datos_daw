@@ -40,6 +40,7 @@
 
 
 ## 8) Diagrama
+Usuario → Datos → Big Data → Análisis → ML/DL → IA → Decisión
 
 ## 9) Problemas
 - Problema 1:
