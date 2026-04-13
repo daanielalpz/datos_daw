@@ -31,7 +31,13 @@
 - Decisión: Recomendar series o películas
 
 ## 7) Tabla
-| Concepto | Función |
+| Concepto | Función               |
+| -------- | --------------------- |
+| Big Data | Guardar muchos datos  |
+| Análisis | Entender los datos    |
+| ML/DL    | Aprender de los datos |
+| IA       | Tomar decisiones      |
+
 
 ## 8) Diagrama
 
